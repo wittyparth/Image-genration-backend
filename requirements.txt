@@ -1,0 +1,5 @@
+Pillow
+google-genai
+dotenv
+fastapi
+uvicorn
