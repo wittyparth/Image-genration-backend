@@ -75,7 +75,7 @@ Visit: **[http://localhost:8000/docs](http://localhost:8000/docs)** (Swagger UI 
 This project is licensed under the **MIT License**.
 
 ## Contributors
-- **Your Name** - [GitHub](https://github.com/yourusername)
+- **Partha Saradhi** - [GitHub](https://github.com/wittyparth)
 
 ---
 ### **🚀 Ready to Generate Stunning AI Images? Start Using the API Today!**
